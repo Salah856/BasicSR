@@ -1,7 +1,8 @@
 # :rocket: BasicSR
 
-[GitHub](https://github.com/xinntao/BasicSR) | [Gitee码云](https://gitee.com/xinntao/BasicSR) <br>
-[English](README.md) | [简体中文](README_CN.md)
+
+[GitHub](https://github.com/xinntao/BasicSR)  <br>
+[English](README.md) 
 
 BasicSR is an **open source** image and video super-resolution toolbox based on PyTorch (will extend to more restoration tasks in the future).<br>
 <sub>([ESRGAN](https://github.com/xinntao/ESRGAN), [EDVR](https://github.com/xinntao/EDVR), [DNI](https://github.com/xinntao/DNI), [SFTGAN](https://github.com/xinntao/SFTGAN))</sub>
