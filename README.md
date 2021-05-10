@@ -16,10 +16,12 @@ BasicSR is an **open source** image and video super-resolution toolbox based on 
 Please run the following commands in the **BasicSR root path** to install BasicSR:<br>
 (Make sure that your GCC version: gcc >= 5)
 
+
 ```bash
 pip install -r requirements.txt
 python setup.py develop
 ```
+
 
 Note that BasicSR is only tested in Ubuntu, and may be not suitable for Windows. You may try [Windows WSL with CUDA supports](https://docs.microsoft.com/en-us/windows/win32/direct3d12/gpu-cuda-in-wsl) :-) (It is now only available for insider build with Fast ring).
 
